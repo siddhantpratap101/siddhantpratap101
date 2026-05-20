@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantpratap101&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantpratap101" /> </p>
 
-- 🔭 I’m currently working on **full responsive blog project.**
-
-- 🌱 I’m currently learning **react**
 
 - 🤝 I’m looking for help with **full stack web developer**
 
